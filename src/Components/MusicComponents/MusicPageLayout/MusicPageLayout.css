@@ -1,0 +1,27 @@
+#container-div {
+    margin: 100px 200px 100px 200px;
+    border-radius: 6px;
+    max-width: 1200px;
+}
+
+#title-div {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#arrow {
+    width: 50px;
+    padding-left: 15px;
+}
+
+#title {
+    margin: auto;
+    padding-right: 55px;
+}
+
+#music-div {
+    padding: 5px 50px 45px 50px;
+}

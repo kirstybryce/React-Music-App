@@ -1,3 +1,11 @@
+# React Music App
+
+Created by Kirsty Bryce.
+
+Description: Music app where you choose how you're feeling and you get a playlist with relevant songs.
+
+![Music app diagram](https://github.com/kirstybryce/React-Music-App/blob/main/public/Music-App-Diagram.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
